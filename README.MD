@@ -48,25 +48,25 @@ Sou Felipe Pereira, tenho 17 anos e sou um desenvolvedor Full Stack apaixonado p
 > Landing pages modernas e responsivas, otimizadas para conversão e usabilidade  
 - **Tecnologias**: HTML5, CSS3, JavaScript  
 - **Status**: ✅ Concluído  
-- [📂 Ver Repositório](https://github.com/cxrzin08/landing-pages)
+- <img src="https://portfoliocxrzin.vercel.app/assets/projeto1-BNKX4pSX.jpg" alt="Landing Pages" width="300"/>
 
 ### 🔐 Sistema de Login e Autenticação
 > Sistema completo com autenticação, recuperação de senha e validação em tempo real  
 - **Tecnologias**: Python, SQL, E-mail  
 - **Status**: ✅ Concluído  
-- [📂 Ver Repositório](https://github.com/cxrzin08/sistema-login)
+- <img src="https://portfoliocxrzin.vercel.app/assets/projeto2-CTeC24ie.jpg" alt="Sistema de Login" width="300"/>
 
 ### 💬 Automação WhatsApp Web
 > Sistema de automação para envio de mensagens em massa, com interface de controle e agendamento  
 - **Tecnologias**: Python, PyAutoGUI, Selenium  
 - **Status**: ✅ Concluído  
-- [📂 Ver Repositório](https://github.com/cxrzin08/automacao-whatsapp)
+- <img src="https://portfoliocxrzin.vercel.app/assets/projeto4-BvQDi9nx.jpg" alt="Automação WhatsApp" width="300"/>
 
 ### 🎵 Baixador de Músicas Desktop
 > Aplicação desktop para download e conversão de músicas do Spotify e YouTube para MP3  
 - **Tecnologias**: Python, SQLite, FFmpeg  
 - **Status**: ✅ Concluído  
-- [📂 Ver Repositório](https://github.com/cxrzin08/baixador-musicas)
+- <img src="https://portfoliocxrzin.vercel.app/assets/projeto5-CgPmy9p6.jpg" alt="Baixador de Músicas" width="300"/>
 
 ### 🎓 Technobug
 > Plataforma educacional com vídeos e materiais sobre IA, Banco de Dados e Front-end  
