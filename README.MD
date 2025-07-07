@@ -1,7 +1,7 @@
 # Felipe Pereira - Desenvolvedor Full Stack 🚀
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Sou+Felipe+Pereira;Desenvolvedor+Full+Stack;Criando+solu%C3%A7%C3%B5es+inovadoras!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF¢er=true&vCenter=true&width=600&lines=Ol%C3%A1!+Sou+Felipe+Pereira;Desenvolvedor+Full+Stack;Criando+solu%C3%A7%C3%B5es+inovadoras!" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 Sobre Mim
@@ -39,7 +39,6 @@ Sou Felipe Pereira, tenho 17 anos e sou um desenvolvedor Full Stack apaixonado p
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cxrzin08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxrzin08&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ## 🚀 Projetos em Destaque
@@ -48,25 +47,41 @@ Sou Felipe Pereira, tenho 17 anos e sou um desenvolvedor Full Stack apaixonado p
 > Landing pages modernas e responsivas, otimizadas para conversão e usabilidade  
 - **Tecnologias**: HTML5, CSS3, JavaScript  
 - **Status**: ✅ Concluído  
-- <img src="https://portfoliocxrzin.vercel.app/assets/projeto1-BNKX4pSX.jpg" alt="Landing Pages" width="300"/>
+<div align="center">
+  <a href="https://portfoliocxrzin.vercel.app">
+    <img src="https://portfoliocxrzin.vercel.app/assets/projeto1-BNKX4pSX.jpg" alt="Landing Pages" width="400" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  </a>
+</div>
 
 ### 🔐 Sistema de Login e Autenticação
 > Sistema completo com autenticação, recuperação de senha e validação em tempo real  
 - **Tecnologias**: Python, SQL, E-mail  
 - **Status**: ✅ Concluído  
-- <img src="https://portfoliocxrzin.vercel.app/assets/projeto2-CTeC24ie.jpg" alt="Sistema de Login" width="300"/>
+<div align="center">
+  <a href="https://portfoliocxrzin.vercel.app">
+    <img src="https://portfoliocxrzin.vercel.app/assets/projeto2-CTeC24ie.jpg" alt="Sistema de Login" width="400" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  </a>
+</div>
 
 ### 💬 Automação WhatsApp Web
 > Sistema de automação para envio de mensagens em massa, com interface de controle e agendamento  
 - **Tecnologias**: Python, PyAutoGUI, Selenium  
 - **Status**: ✅ Concluído  
-- <img src="https://portfoliocxrzin.vercel.app/assets/projeto4-BvQDi9nx.jpg" alt="Automação WhatsApp" width="300"/>
+<div align="center">
+  <a href="https://portfoliocxrzin.vercel.app">
+    <img src="https://portfoliocxrzin.vercel.app/assets/projeto4-BvQDi9nx.jpg" alt="Automação WhatsApp" width="400" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  </a>
+</div>
 
 ### 🎵 Baixador de Músicas Desktop
 > Aplicação desktop para download e conversão de músicas do Spotify e YouTube para MP3  
 - **Tecnologias**: Python, SQLite, FFmpeg  
 - **Status**: ✅ Concluído  
-- <img src="https://portfoliocxrzin.vercel.app/assets/projeto5-CgPmy9p6.jpg" alt="Baixador de Músicas" width="300"/>
+<div align="center">
+  <a href="https://portfoliocxrzin.vercel.app">
+    <img src="https://portfoliocxrzin.vercel.app/assets/projeto5-CgPmy9p6.jpg" alt="Baixador de Músicas" width="400" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  </a>
+</div>
 
 ### 🎓 Technobug
 > Plataforma educacional com vídeos e materiais sobre IA, Banco de Dados e Front-end  
