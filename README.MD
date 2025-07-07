@@ -14,9 +14,9 @@ Objetivo: Desenvolver soluções digitais que combinem funcionalidade, usabilida
 Contato
 
 Portfólio: portfoliocxrzin.vercel.app
-WhatsApp: Entre em contato
+WhatsApp: wa.me/+5519983824281
 Instagram: @felipe_cxr
-E-mail: seuemail@example.com
+E-mail: felipepereirabritto08@gmail.com
 
 Projetos em Destaque
 
