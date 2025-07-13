@@ -83,12 +83,6 @@ Sou Felipe Pereira, tenho 17 anos e sou um desenvolvedor Full Stack apaixonado p
   </a>
 </div>
 
-### 🎓 Technobug
-> Plataforma educacional com vídeos e materiais sobre IA, Banco de Dados e Front-end  
-- **Tecnologias**: React, Vite, HTML5, CSS3, JavaScript  
-- **Status**: ✅ Concluído  
-- [📂 Ver Repositório](https://github.com/cxrzin08/technobug)
-
 ## 📈 Contribuições
 
 <div align="center">
