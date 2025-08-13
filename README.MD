@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou Felipe Pereira, tenho 17 anos e sou um desenvolvedor Full Stack apaixonado por criar soluções digitais inovadoras e eficientes. Com experiência em Front-end e Back-end, desenvolvo interfaces web modernas, APIs robustas e sistemas de automação, sempre buscando combinar funcionalidade, usabilidade e inovação.
+Sou Felipe Pereira, tenho 18 anos e sou um desenvolvedor Full Stack apaixonado por criar soluções digitais inovadoras e eficientes. Com experiência em Front-end e Back-end, desenvolvo interfaces web modernas, APIs robustas e sistemas de automação, sempre buscando combinar funcionalidade, usabilidade e inovação.
 
 - 🔭 **Atualmente**: Trabalhando em projetos Full Stack.
 - 🌱 **Aprendizado**: Explorando novas tecnologias e frameworks.
